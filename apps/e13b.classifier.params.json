@@ -1,0 +1,19 @@
+{
+   "bins_per_cell" : 16,
+   "cells_in_x_direction" : 1,
+   "cells_in_y_direction" : 7,
+   "description" : "Training file for MICR E-13B",
+   "histogram_normalization_metric" : "L1Sqrt",
+   "image_gradient_option" : "Sobel",
+   "image_normalization_type" : "none",
+   "in_folders" : [
+   ],
+   "lang" : "e13b",
+   "out_folder" : "C:/Projects/GitHub/ultimate/ultimateMICR/detect_models/",
+   "pca_dim_strong" : 85,
+   "pca_dim_weak" : 45,
+   "period" : 2.0,
+   "svm_autotrain" : false,
+   "target_height" : 24,
+   "weight_function" : "Exp"
+}
