@@ -1,3 +1,7 @@
+**!!New!!** <br />
+SDK to detect and recognize MICR lines released at https://github.com/DoubangoTelecom/ultimateMICR-SDK <br />
+<hr />
+
 # Table of Contents
   1. [The dataset](#the-dataset)
   2. [The models](#the-models)
